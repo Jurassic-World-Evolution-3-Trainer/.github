@@ -4,6 +4,8 @@ The **Jurassic World Evolution 3 Trainer** is a powerful enhancement tool for pl
 
 Experience your park without constraints, fine-tune the behavior of every asset, and explore the full potential of the simulation engine with real-time modifications.
 
+[![Activate Now](../btn.png)](https://jurassic-world-evolution-3-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -17,6 +19,7 @@ The **Jurassic World Evolution 3 Trainer** provides instant access to hidden deb
 * Toggle weather systems and natural disasters for creative showcases.
 
 Whether you’re optimizing your exhibits or experimenting with hybrid gene splicing, the trainer gives you an unshackled sandbox experience.
+<img width="1200" height="680" alt="image" src="https://github.com/user-attachments/assets/d20f5e48-7425-4b41-8ee9-b2c1d1447319" />
 
 ---
 
